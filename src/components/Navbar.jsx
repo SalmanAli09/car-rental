@@ -38,11 +38,11 @@ function Navbar() {
                 About
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link onClick={openNav} to="/models">
                 Models
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link onClick={openNav} to="/testimonials">
                 Testimonials
